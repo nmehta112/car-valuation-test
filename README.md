@@ -8,7 +8,7 @@ Clone the repo:
 
 bash
 Copy code
-git clone https://github.com/nmehta112/car-valuation-tests.git
+git clone https://github.com/nmehta112/car-valuation-test.git
 Install dependencies:
 
 bash
