@@ -1,0 +1,8 @@
+<suite name="CarValuationSuite">
+    <parameter name="websiteUrl" value="https://www.webuyanycar.com"/>
+    <test name="CarValuationTest">
+        <classes>
+            <class name="com.example.CarValuationTest"/>
+        </classes>
+    </test>
+</suite>
